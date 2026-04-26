@@ -1,7 +1,14 @@
- #  Marcos Guzmán 👋 :technologist:
+#  Marcos Guzmán 👋 :technologist:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!+Soy+Marcos+Guzm%C3%A1n;Estudiante+de+DAM;Aprendiendo+Java%2C+HTML%2C+CSS+y+JS)](https://git.io/typing-svg) <!-- Lo he hecho haciendo uso de https://github.com/DenverCoder1/readme-typing-svg -->
 ---
-Soy **Marcos Guzmán Pérez**, **estudiante** de **Desarrollo de Aplicaciones Multiplataforma** en SAFA Tech y **graduado** en el ciclo formativode **S istemas Microinformáticos y Redes**.
+Soy **Marcos Guzmán Pérez**, **estudiante** de **Desarrollo de Aplicaciones Multiplataforma** en SAFA Tech y **graduado** en el ciclo formativode **Sistemas Microinformáticos y Redes**.
+___
+## :monocle_face: Sobre Mi
+- :memo: Actual **estudiante de DAM** 1º año, Graduado en **SMR**.
+- :triangular_flag_on_post: Actualmente viviendo en **Valladolid, España**.
+- :white_check_mark: Me gusta el **desarrollo web**, tengo ligera experiencia en HTML/CSS/JS y Wordpress y Elementor.
+- :green_heart: Me encanta aprender y mejorar mis hablididades.
+
 
 <!--
 **AstralConflict/AstralConflict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
