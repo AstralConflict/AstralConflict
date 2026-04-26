@@ -1,7 +1,7 @@
 #  Marcos Guzmán 👋 :technologist:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Hola!+Soy+Marcos+Guzm%C3%A1n;Estudiante+de+DAM;Aprendiendo+Java%2C+HTML%2C+CSS+y+JS)](https://git.io/typing-svg) <!-- Lo he hecho haciendo uso de https://github.com/DenverCoder1/readme-typing-svg -->
 ---
-Soy **Marcos Guzmán Pérez**, **estudiante** de **Desarrollo de Aplicaciones Multiplataforma** en SAFA Tech y **graduado** en el ciclo formativode **Sistemas Microinformáticos y Redes**.
+Soy **Marcos Guzmán Pérez**, **estudiante** de **Desarrollo de Aplicaciones Multiplataforma** en [SAFA Tech](https://www.fpsafavalladolid.com/) y **graduado** en el ciclo formativode **Sistemas Microinformáticos y Redes**.
 ___
 ## :monocle_face: Sobre Mi
 - :memo: Actual **estudiante de DAM** 1º año, *Graduado en **SMR***.
@@ -40,3 +40,5 @@ ___
 ## :chart_with_upwards_trend: Mis estadisticas en GitHub <!-- Hecho con https://github.com/anuraghazra/github-readme-stats -->
 [![AstralConflict GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralConflict&locale=es&theme=ambient_gradient&show_icons=true)](https://github.com/AstralConflict)
 [![Top Languages AstralConflict](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralConflict&layout=compact&locale=es&theme=ambient_gradient)](https://github.com/AstralConflict)
+---
+> Un error no es un fracaso, es una pista para encontrar la solución.
